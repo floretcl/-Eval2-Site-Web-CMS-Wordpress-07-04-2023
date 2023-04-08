@@ -8,6 +8,7 @@ Technologies used :
 
 - Wordpress
 - Template : Astra
+- CSS
 - Extensions :
   - Spectra
   - WPForms Lite
