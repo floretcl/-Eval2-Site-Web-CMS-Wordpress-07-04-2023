@@ -3,6 +3,7 @@
 
 
 [Link to the website](https://travelvibe.clementfloret.fr)
+
 [Link to figma project](https://www.figma.com/file/F9gYnVqfE6VabOCeOM8LWl/TravelVibe?node-id=0%3A1&t=cjsuN61zccHFoOZt-1)
 
 Technologies used :
