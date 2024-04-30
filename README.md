@@ -4,7 +4,7 @@
 
 [Link to the website](https://travelvibe.clementfloret.dev)
 
-[Link to figma project](https://www.figma.com/file/F9gYnVqfE6VabOCeOM8LWl/TravelVibe?node-id=0%3A1&t=cjsuN61zccHFoOZt-1)
+[Link to figma project](https://www.figma.com/design/F9gYnVqfE6VabOCeOM8LWl/TravelVibe?node-id=0%3A1&t=53lP8kUEp5n1iqp8-1)
 
 Technologies used :
 
